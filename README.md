@@ -22,7 +22,7 @@ acteurs d’un drame annoncé réel ou fictif.
 
 > C’est au milieu de tout ce monde que vous, un Data Analyst, entrez en jeu. En tant que tel, vous avez une vision empirique et rationnelle du monde, avec la “data” comme support de votre raisonnement.
 
-# **PARTIE 1** : Le réchauffement climatique est-il un phénomène réel ?
+# PARTIE 1 : Le réchauffement climatique est-il un phénomène réel ?
 
 Afin de savoir si le réchauffement climatique est un phénomène réel, il nous faut observer l'évolution des températures dans le temps.
 
