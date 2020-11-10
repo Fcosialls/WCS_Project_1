@@ -61,8 +61,12 @@ L'augmentation est d'autant plus impressionnante après les années 1980.
 ### Limites
 
 *   Nous avons calculé la température globale des océans en supposant que le poids de la température des océans et de la température terrestre était identique. C'est un parti pris qu'il faut prendre en compte et qui peut impacter nos observations.
+
+
 ---
-# **PARTIE 2** : Dans quelle mesure l’Homme impacte t il le réchauffement climatique ?
+
+
+# PARTIE 2 : Dans quelle mesure l’Homme impacte t il le réchauffement climatique ?
 
 Maintenant que nous avons observé qu'il y avait bel et bien une hausse globale des températures, nous souhaiterions avoir si l'homme a un impact sur le réchauffement climatique.
 
