@@ -1,7 +1,6 @@
 # WCS_Project_1
 
-Retrouvez le code ICI : 
-https://github.com/Fcosialls/WCS_Project_1/blob/main/projet_Climat_FCosialls.ipynb
+Retrouvez le code ICI : [Projet_Climat_FCosialls](https://github.com/Fcosialls/WCS_Project_1/blob/main/projet_Climat_FCosialls.ipynb)
 
 (Projet réalisé avec Google Colab)
 
